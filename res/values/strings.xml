@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">短信亮屏</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_about">关于</string>
+    <string name="intro">这个程序的功能是在来短信的时候点亮屏幕,省去你按解锁键的时间。\n\n希望能给您带去一点方便。\n\n有任何问题都请联系我：\nlcconan@163.com\n\nCoded by Larry,2013\n\nThanks for Using.</string>
+    <string name="button1">点亮屏幕 但不解锁</string>
+    <string name="button2">点亮屏幕 同时解锁</string>
+    <string name="seven">保持7秒钟</string>
+    <string name="ten">保持10秒钟</string>
+    <string name="thirty">保持30秒钟</string>
+    <string name="RadioGroup1">点亮屏幕但不解锁状态的保持时间</string>
+    <string name="about">关于</string>
+    <string name="start">启用</string>
+    <string name="yes">ALL RIGHT!</string>
+    <string name="about_content">短信亮屏v1.0\nMsgLighter v1.0\n\nThanks for Using~\n\nLarry 2013</string>
+</resources>
